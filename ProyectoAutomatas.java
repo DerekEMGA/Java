@@ -17,7 +17,7 @@ public class ProyectoAutomatas {
         lineasTotales = 0;
         
         // OBJETO ARCHIVO CON LA RUTA DEL ARCHIVO A LEER
-        File archivo = new File("C:\\Users\\gonza\\OneDrive\\Documentos\\GitHub\\Java\\TXT\\holamundo.txt");
+        File archivo = new File("C:\\Users\\gonza\\OneDrive\\Documentos\\GitHub\\Java\\TXT\\prueba1.txt");
         
         // LLAMADA AL METODO PARA CONTAR LAS PALABRAS Y LAS LINEAS
         contarPalabrasLineas(archivo);
